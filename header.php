@@ -8,7 +8,7 @@
 	<meta name="yandex-verification" content="4822aada75c98314" />
 	<link rel="shortcut icon" href="/wp-content/themes/printTheme/img/favicon.ico" />
 	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/main.css?v=4.2.0" />
+	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/main.css?v=4.2.1" />
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
 	<?php wp_head(); ?>
 	<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -30,7 +30,7 @@
 <div class="banner-information">
 	<center>
 		<div class="banner-content">
-			[Внимание!] копия сайта от 08.06.23
+			[Внимание!] копия сайта от 07.06.23
 		</div>
 	</center>
 </div>
