@@ -2130,3 +2130,8 @@ a.link-pant {
     color: #428bca !important;
     text-decoration: underline;
 }
+.s-mirom{padding:0 10px 7px}
+.comments-widget-entry{font-weight:700;color:#7D7D7D;font-style:italic;font-size:12px;font-family:Arial,Helvetica,Sans-serif;list-style:outside none none}
+.widget-container2{list-style:none;margin:0 0 9px;font-size:12px;padding:1px}
+.widget-container2 a{padding:1px}
+.widget-container2 img{float:left;margin:0 4px 0 0}
