@@ -1,0 +1,31 @@
+/* font-family: "AeroMaticsBold"; */
+@font-face {
+    font-family: "AeroMaticsBold";
+    src: url("../fonts/AeroMaticsBold/AeroMaticsBold.eot");
+    src: url("../fonts/AeroMaticsBold/AeroMaticsBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AeroMaticsBold/AeroMaticsBold.woff") format("woff"),
+    url("../fonts/AeroMaticsBold/AeroMaticsBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "AeroMaticsBoldItalic"; */
+@font-face {
+    font-family: "AeroMaticsBoldItalic";
+    src: url("../fonts/AeroMaticsBoldItalic/AeroMaticsBoldItalic.eot");
+    src: url("../fonts/AeroMaticsBoldItalic/AeroMaticsBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AeroMaticsBoldItalic/AeroMaticsBoldItalic.woff") format("woff"),
+    url("../fonts/AeroMaticsBoldItalic/AeroMaticsBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "AeroMaticsItalic"; */
+@font-face {
+    font-family: "AeroMaticsItalic";
+    src: url("../fonts/AeroMaticsItalic/AeroMaticsItalic.eot");
+    src: url("../fonts/AeroMaticsItalic/AeroMaticsItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AeroMaticsItalic/AeroMaticsItalic.woff") format("woff"),
+    url("../fonts/AeroMaticsItalic/AeroMaticsItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+

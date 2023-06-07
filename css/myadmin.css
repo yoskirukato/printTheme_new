@@ -1,0 +1,30 @@
+.quantity > .view {
+    color: red;
+    font-weight: 700;
+    font-size: large;
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+}
+.name > .wc-order-item-sku {
+    color: green !important;
+    font-weight: bold;
+    font-size: 24px !important;
+    background-color: lightgoldenrodyellow;
+    width: 90px;
+    padding: 2px 0 3px 5px;
+}
+#order_data > div.order_data_column_container > div:nth-child(3) > div.address > p.order_note {
+    padding: 10px!important;
+}
+p.order_note {
+    color: red !important;
+    font-weight: 700;
+    border: 3px solid red;
+    padding: 10px !important;
+}
+p.order_note > strong {
+    padding: 0px 0px 10px 0px !important;
+    text-align: center;
+    font-weight: 900;
+    text-decoration: underline;
+}

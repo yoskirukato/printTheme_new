@@ -1,0 +1,116 @@
+#organisation_checkout_field_2 .woocommerce-input-wrapper {
+    display: flex;
+    align-items: center;
+	flex-wrap: wrap; 
+	padding-left: 15px;
+    padding-right: 15px;
+}
+
+#organisation_checkout_field_2 .woocommerce-input-wrapper input {
+    margin-right: 10px;
+}
+
+#organisation_checkout_field_2 .woocommerce-input-wrapper label {
+	width: calc( 100% - 30px);
+}
+
+.woocommerce form .organisation-search .form-row input.input-text {
+	margin-bottom: 10px;
+}
+.woocommerce form .organisation-search .form-row button {
+	width: 100%;
+}
+
+.payment_method_beznal input{
+	display: inline-block!important
+}
+
+.custom-image {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.custom-image-wrap {
+    position: relative;
+    padding: 3px;
+    border: 1px solid #d3ced2;
+    border-radius: 4px;
+    margin-right: 15px;
+	display: block;
+	width: 70px;
+    height: 70px;
+}
+
+.woocommerce div.product form.cart .button.photo-upload {
+	margin-bottom: 14px
+} 
+.description-inner--hidden {
+	display: none
+}
+@media (min-width: 460px){
+	.woocommerce form .organisation-search .form-row input.input-text {
+		width: calc( 100% - 110px);
+		margin-bottom: 0;
+	}
+
+	.woocommerce form .organisation-search .form-row button {
+	   float: right;
+	   width: auto;
+	}	
+}
+
+
+@media (min-width: 762px){
+	#organisation_checkout_field_2 .woocommerce-input-wrapper label {
+		margin-right: 50px;
+		width: auto
+	}
+}
+
+.product-inner-wrap {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.product-inner-wrap .woocommerce-product-gallery {
+    will-change: min-height;
+}
+.product-inner-wrap .woocommerce-product-gallery__wrapper {
+    position: relative;
+    transform: translate(0, 0);
+    transform: translate3d(0, 0, 0);
+    will-change: position, transform;
+	transition: none!important;
+	-webkit-transition: none!important
+}
+
+.fix-navbar-store {
+    position: relative;
+    z-index: 1001;
+	background-color: transparent;
+}
+.navbar-store .container-fluid {
+	transition: .35s;
+	top:0;
+	    background-color: #3B3B3B;
+}
+.fix-navbar-store .container-fluid {
+
+    left: 0;
+    right: 0;
+}
+
+@media (max-width: 767px){
+	#myNavbar {
+		overflow-x: hidden;
+		    margin: 0;
+	}
+	#myNavbar .navbar-nav-store {
+		margin: 0
+	}
+	#myNavbar .navbar-nav-store li {
+		text-align: left;
+	}
+
+}

@@ -1,0 +1,21 @@
+#organisation_checkout_field .woocommerce-input-wrapper {
+    display: flex;
+    align-items: center;
+	flex-wrap: wrap; 
+}
+
+#organisation_checkout_field .woocommerce-input-wrapper input {
+    margin-right: 10px;
+}
+
+
+#organisation_checkout_field .woocommerce-input-wrapper label {
+	width: calc( 100% - 30px);
+}
+
+@media (min-width: 762px){
+	#organisation_checkout_field .woocommerce-input-wrapper label {
+		margin-right: 50px;
+		width: auto
+	}
+}
