@@ -8,7 +8,7 @@
 	<meta name="yandex-verification" content="4822aada75c98314" />
 	<link rel="shortcut icon" href="/wp-content/themes/printTheme/img/favicon.ico" />
 	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/main.css?v=4.1.9" />
+	<link rel="stylesheet" href="/wp-content/themes/printTheme/css/main.css?v=4.2.0" />
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
 	<?php wp_head(); ?>
 	<script src='https://www.google.com/recaptcha/api.js'></script>
