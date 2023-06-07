@@ -2044,14 +2044,13 @@ table.variations > tbody > tr > td {
 .banner-information{
 	position: relative;
     width: 100%;
-    height: 56px;
+    height: 35px;
     margin-bottom: -15px;
-    background: #ffeb3b;
+    background: #d1c23c;
 }
 .banner-content{
 	max-width: 1170px;
-    height: 58px;
-	padding-top: 10px;
+	padding-top: 7px;
 }
 .banner-button{
 		color: rgb(255, 255, 255);
