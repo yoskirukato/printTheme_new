@@ -30,7 +30,7 @@
 <div class="banner-information">
 	<center>
 		<div class="banner-content">
-			[Внимание!] копия сайта от 08.06.23 test2ветка2
+			[Внимание!] копия сайта от 08.06.23 test2ветка
 		</div>
 	</center>
 </div>
