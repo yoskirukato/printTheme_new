@@ -30,8 +30,7 @@
 <div class="banner-information">
 	<center>
 		<div class="banner-content">
-			<a href="https://printblog.ru/product-category/chernila?filters=proizvoditel%5B2970%5D" class="banner-content-link" ><span style="color:red;">[Внимание!]</span> копия сайта от 06.06.23</a>
-			
+			[Внимание!] копия сайта от 06.06.23
 		</div>
 	</center>
 </div>
